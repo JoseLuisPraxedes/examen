@@ -1,0 +1,40 @@
+#divHeader{
+    background-color: #9f1c5b;
+    width: 100%;
+    height: 80px;
+    text-align:center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#textoHeader{
+    color: white;
+}
+
+#contenedorTema{
+    height:50px;
+    width:400px;
+    margin:0px auto;
+}
+
+#contenedorBody {
+    background-color: honeydew;
+    width: 100%;
+    height: 80%;
+    text-align:center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
